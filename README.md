@@ -1,6 +1,7 @@
 # 关于本群组建的相关说明
 
 中德2023 易成
+
 2023.11.24
 
 ## 一些说明
@@ -61,7 +62,7 @@
 
 > 每天都有新东西
 
-!> **基础：** ahtml、css、javascript 基础
+!> **基础：** html、css、javascript 基础
 
 !> **js框架：**[Vue](https://cn.vuejs.org/)、[react](https://react.docschina.org/)
 
